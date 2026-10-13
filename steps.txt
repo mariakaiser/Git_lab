@@ -1,0 +1,8 @@
+1.	ssh-keygen -t ed25519 -C mariakaiser2024@gmail.com and added it in GitHub ssh keys
+2.	git init lab_1 and created a repo on github
+3.	made my_cv.txt then git add . then git commit -m"my_cv.txt"
+4.	changed file name to eng, then git add . then git commit --amend -m"amend commit"
+5.	write bad skill in the file, then git add . then git commit -m"bad skill"
+6.	git reset HEAD^
+7.	git remote add origin git@github.com:mariakaiser/Git_lab.git
+8.	git push -u origin main
